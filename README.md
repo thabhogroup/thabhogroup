@@ -21,10 +21,7 @@ Thabho Group of Companies operates in the following sectors:
 
 1. **Technology**: Cutting-edge tech solutions that drive digital transformation.
 2. **Real Estate**: Innovative and sustainable property development.
-3. **Finance**: Comprehensive financial services to empower businesses and individuals.
-4. **Hospitality**: Premium services in hospitality and leisure.
-5. **Retail**: Delivering high-quality products with exceptional customer service.
-
+3. **Agriteche**: Golden leap on Agriculture.
 ## Tagline
 **"Innovation. Integrity. Impact."**
 
